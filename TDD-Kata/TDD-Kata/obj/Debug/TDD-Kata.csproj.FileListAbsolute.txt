@@ -1,0 +1,9 @@
+D:\TDD-KataRepo\TDD-Kata\TDD-Kata\obj\Debug\ResolveAssemblyReference.cache
+D:\TDD-KataRepo\TDD-Kata\TDD-Kata\bin\Debug\TDD-Kata.dll
+D:\TDD-KataRepo\TDD-Kata\TDD-Kata\bin\Debug\TDD-Kata.pdb
+D:\TDD-KataRepo\TDD-Kata\TDD-Kata\bin\Debug\nunit.framework.dll
+D:\TDD-KataRepo\TDD-Kata\TDD-Kata\bin\Debug\nunit.mocks.dll
+D:\TDD-KataRepo\TDD-Kata\TDD-Kata\bin\Debug\pnunit.framework.dll
+D:\TDD-KataRepo\TDD-Kata\TDD-Kata\bin\Debug\nunit.framework.xml
+D:\TDD-KataRepo\TDD-Kata\TDD-Kata\obj\Debug\TDD-Kata.dll
+D:\TDD-KataRepo\TDD-Kata\TDD-Kata\obj\Debug\TDD-Kata.pdb

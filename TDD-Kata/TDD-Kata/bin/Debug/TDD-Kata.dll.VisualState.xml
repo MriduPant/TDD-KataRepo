@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1030]D:\TDD-KataRepo\TDD-Kata\TDD-Kata\bin\Debug\TDD-Kata.dll</TopNode>
+  <SelectedNode>[0-1031]TDD_Kata</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1030]D:\TDD-KataRepo\TDD-Kata\TDD-Kata\bin\Debug\TDD-Kata.dll" Expanded="true" />
+    <Node UniqueName="[0-1031]TDD_Kata" Expanded="true" />
+    <Node UniqueName="[0-1000]TDD_Kata.Runner" Expanded="true" />
+    <Node UniqueName="[0-1028]TDD_Kata.Runner.Add_WhenGivenNegativeNumbers_ThrowsExceptionSayingNegativesArentAllowed" Expanded="true" />
+    <Node UniqueName="[0-1014]TDD_Kata.Runner.Add_WhenGivenNewLinesBetweenNumbers_TreatsNewLineAsDelimiter" Expanded="true" />
+    <Node UniqueName="[0-1002]TDD_Kata.Runner.Add_WhenGivenOneNumber_ReturnsThatNumber" Expanded="true" />
+    <Node UniqueName="[0-1007]TDD_Kata.Runner.Add_WhenGivenTwoNumbers_AddNumbersTogether" Expanded="true" />
+    <Node UniqueName="[0-1025]TDD_Kata.Runner.Add_WhenGivenTwoSlashesAtBeginning_UsesDelimiterAfterSlashesInsteadOfComma" Expanded="true" />
+  </Nodes>
+</VisualState>
