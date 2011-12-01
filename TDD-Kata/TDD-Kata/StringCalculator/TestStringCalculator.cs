@@ -53,6 +53,7 @@ namespace TDD_Kata
         [TestCase("1\n2:3", 6)]
         [TestCase("//1\n2:5", 8)]
         [TestCase("//:1,2:8", 11)]
+        [TestCase("//***5***5,2", 12)]
         [Test]
         public void Add_WhenGivenNewLinesBetweenNumbers_TreatsNewLineAsDelimiter(string value, int expected)
             {
