@@ -52,7 +52,7 @@ namespace TDD_Kata
             split = numbers.Split(del);
             for (int i = 0; i < split.Length; i++)
                 {
-                if (split[i] == "")
+                if (split[i] == "" || Convert.ToInt32(split[i]) >= 1000)
                     {
                     numbers = Convert.ToString(0);
                     add = add + Convert.ToInt32(numbers);

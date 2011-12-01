@@ -36,7 +36,7 @@ namespace TDD_Kata
         [TestCase("1\n2", 3)]
         [TestCase("3\n7", 10)]
         [TestCase("1000,1", 1)]
-        [TestCase("1010,1", 11)]
+        [TestCase("1010,1", 1)]
         [Test]
         public void Add_WhenGivenTwoNumbers_AddNumbersTogether(string twoNumbers, int expected)
             {
