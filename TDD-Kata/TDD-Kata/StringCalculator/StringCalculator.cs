@@ -10,7 +10,7 @@ namespace TDD_Kata
 
 
         static string[] split = new string[5];
-        static char[] del = { '/', ':', ',', '\n', '.', '*', ' ' };
+        static char[] del = { '/', ':', ',', '\n', '.', '*', ' ','%' };
         static string trimChar = "\\";
         public static int Add(string numbers)
             {
