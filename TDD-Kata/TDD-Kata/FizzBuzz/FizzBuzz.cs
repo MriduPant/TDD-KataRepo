@@ -9,14 +9,8 @@ namespace TDD_Kata.FizzBuzz
         {
         public static string FizzBuzz(int input)
             {
-            return EvaluateInput(input);
-            }
-
-        private static string EvaluateInput(int input)
-            {
             return CheckCondition(input);
             }
-
         private static string CheckCondition(int input)
             {
             string result = string.Empty;
